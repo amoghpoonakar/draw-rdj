@@ -1,0 +1,7 @@
+sketchpy==0.1.7
+geocoder==1.38.1
+geopy
+svg.path
+svgpathtools
+opencv-python
+numpy
